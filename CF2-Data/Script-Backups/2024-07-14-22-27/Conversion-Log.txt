@@ -1,0 +1,12 @@
+Converting script [1 / 1]	[\Scripts\Player\PlayerInputs.cs]
+	Fragments : 3
+		[ 0] : Line:   19	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   19	InputMethod   GetAxis             	("Vertical")
+		[ 2] : Line:   31	InputMethod   GetKeyDown          	(KeyCode.E)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [E:/UnityProjects/Task-7tam/CF2-Data/Script-Backups/2024-07-14-22-27\Assets-After/\Scripts\Player\PlayerInputs.cs] to [E:/UnityProjects/Task-7tam/Assets/\Scripts\Player\PlayerInputs.cs]
+
+Overwriting COMPLETED!
